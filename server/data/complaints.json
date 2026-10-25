@@ -1,0 +1,568 @@
+[
+  {
+    "id": "d13ff1b9-3048-4d61-a6b7-cb223c36ae6f",
+    "trackingId": "CMP-2026-9003",
+    "subject": "Unauthorized Service Fee on Monthly Telecom Statement",
+    "description": "An extra $14.99 premium voicemail addon charge was billed without authorization or opt-in consent.",
+    "category": "Billing/Payment",
+    "priority": "High",
+    "fullName": "Maya Lin",
+    "email": "maya.lin@designer.net",
+    "phone": "+1-555-013-9003",
+    "referenceOrLocation": "Account #TEL-449102",
+    "status": "In Review",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-24T14:15:00.000Z",
+        "actor": "Maya Lin",
+        "remarks": "Billing dispute submitted."
+      },
+      {
+        "status": "In Review",
+        "timestamp": "2026-10-25T09:00:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Billing team auditing provisioning history."
+      }
+    ],
+    "comments": [],
+    "createdAt": "2026-10-24T14:15:00.000Z",
+    "updatedAt": "2026-10-25T09:00:00.000Z"
+  },
+  {
+    "id": "6f1aed84-e1ec-44bc-b772-b0ed1d4114a7",
+    "trackingId": "CMP-2026-9002",
+    "subject": "Cold Water Only in Community Gym Shower Facility",
+    "description": "Showers 1 through 4 have zero hot water supply since Monday morning early bird hours.",
+    "category": "Facilities",
+    "priority": "Medium",
+    "fullName": "Brian O'Conner",
+    "email": "brian.oc@sportsclub.org",
+    "phone": "+1-555-018-9002",
+    "referenceOrLocation": "Main Gym Locker Room B",
+    "status": "Submitted",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-25T08:30:00.000Z",
+        "actor": "Brian O'Conner",
+        "remarks": "Water heater failure reported by morning runners."
+      }
+    ],
+    "comments": [],
+    "createdAt": "2026-10-25T08:30:00.000Z",
+    "updatedAt": "2026-10-25T08:30:00.000Z"
+  },
+  {
+    "id": "3de9df25-6612-4490-87ee-0ff677a29913",
+    "trackingId": "CMP-2026-9001",
+    "subject": "Faulty Power Supply on Workstation Pro 9",
+    "description": "The desktop power supply began making loud buzzing noises and repeatedly shuts down under GPU rendering load.",
+    "category": "Product",
+    "priority": "High",
+    "fullName": "Sarah Connor",
+    "email": "sarah.c@techsys.io",
+    "phone": "+1-555-019-9001",
+    "referenceOrLocation": "Asset Tag #WS-8812",
+    "status": "In Progress",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-23T10:00:00.000Z",
+        "actor": "Sarah Connor",
+        "remarks": "Reported hardware failure with audio clip."
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-24T11:00:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Replacement 850W modular PSU dispatched to field tech."
+      }
+    ],
+    "comments": [
+      {
+        "id": "comm-9001",
+        "author": "Admin (admin)",
+        "text": "Field engineering scheduled for Tuesday 10:00 AM.",
+        "createdAt": "2026-10-24T11:05:00.000Z"
+      }
+    ],
+    "createdAt": "2026-10-23T10:00:00.000Z",
+    "updatedAt": "2026-10-24T11:00:00.000Z"
+  },
+  {
+    "id": "0846b49f-3c0a-4867-817b-025f84807f42",
+    "trackingId": "CMP-2026-0013",
+    "subject": "Defective Display Cable on Projector",
+    "description": "HDMI output cuts out every few minutes during lecture hall presentations.",
+    "category": "Product",
+    "priority": "High",
+    "fullName": "Prof. Alan Turing",
+    "email": "a.turing@university.ac.uk",
+    "phone": "+44-20-7946-0991",
+    "referenceOrLocation": "Lecture Hall 101",
+    "status": "In Review",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-25T08:30:57.149Z",
+        "actor": "Prof. Alan Turing",
+        "remarks": "Complaint filed successfully into the tracker."
+      },
+      {
+        "status": "In Review",
+        "timestamp": "2026-10-25T08:30:57.217Z",
+        "actor": "Admin (admin)",
+        "remarks": "Assigned AV specialist to inspect projector cable."
+      }
+    ],
+    "comments": [
+      {
+        "id": "0921a61a-7712-46ca-8187-fc75d61b8b17",
+        "author": "Admin (admin)",
+        "text": "Replacement braided HDMI 2.1 cable ordered from distributor.",
+        "createdAt": "2026-10-25T08:30:57.228Z"
+      }
+    ],
+    "createdAt": "2026-10-25T08:30:57.149Z",
+    "updatedAt": "2026-10-25T08:30:57.228Z"
+  },
+  {
+    "id": "c1a2b3c4-1111-4000-8000-000000000001",
+    "trackingId": "CMP-2026-0001",
+    "subject": "Damaged Smart Thermostat Received",
+    "description": "Received the EcoTemp 400 thermostat package with a cracked front display and severed wiring harness. Order placed on Oct 18.",
+    "category": "Product",
+    "priority": "High",
+    "fullName": "Marcus Vance",
+    "email": "marcus.vance@example.com",
+    "phone": "+1-555-019-2831",
+    "referenceOrLocation": "Order #ORD-99214",
+    "status": "In Progress",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-20T09:15:00.000Z",
+        "actor": "Marcus Vance",
+        "remarks": "Complaint filed with product unboxing photos."
+      },
+      {
+        "status": "In Review",
+        "timestamp": "2026-10-20T11:30:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Assigned to Hardware Quality & RMA team."
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-21T14:00:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Replacement unit dispatched under RMA-5510."
+      }
+    ],
+    "comments": [
+      {
+        "id": "comm-101",
+        "author": "Admin (admin)",
+        "text": "RMA approved. Courier tracking label sent to customer email.",
+        "createdAt": "2026-10-21T14:02:00.000Z"
+      }
+    ],
+    "createdAt": "2026-10-20T09:15:00.000Z",
+    "updatedAt": "2026-10-21T14:02:00.000Z"
+  },
+  {
+    "id": "c1a2b3c4-2222-4000-8000-000000000002",
+    "trackingId": "CMP-2026-0002",
+    "subject": "Duplicate Subscription Billing for October",
+    "description": "My credit card was charged twice on October 1st for the Pro Cloud storage annual plan ($119.88 x 2). Requesting immediate refund of the duplicate charge.",
+    "category": "Billing/Payment",
+    "priority": "High",
+    "fullName": "Elena Rostova",
+    "email": "elena.rostova@example.org",
+    "phone": "+1-555-014-9922",
+    "referenceOrLocation": "Invoice #INV-2026-8812",
+    "status": "Resolved",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-15T08:00:00.000Z",
+        "actor": "Elena Rostova",
+        "remarks": "Complaint filed with duplicate bank statement extract."
+      },
+      {
+        "status": "In Review",
+        "timestamp": "2026-10-15T09:45:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Verified double capture in payment gateway logs."
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-16T10:15:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Refund request transmitted to Stripe merchant account."
+      },
+      {
+        "status": "Resolved",
+        "timestamp": "2026-10-18T16:20:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Refund of $119.88 cleared successfully. Acquirer reference sent to customer."
+      }
+    ],
+    "comments": [
+      {
+        "id": "comm-201",
+        "author": "Admin (admin)",
+        "text": "Card issuer confirmation received. Settlement confirmed.",
+        "createdAt": "2026-10-18T16:20:00.000Z"
+      }
+    ],
+    "createdAt": "2026-10-15T08:00:00.000Z",
+    "updatedAt": "2026-10-18T16:20:00.000Z"
+  },
+  {
+    "id": "c1a2b3c4-3333-4000-8000-000000000003",
+    "trackingId": "CMP-2026-0003",
+    "subject": "Flickering Light and Exposed Wiring in Building B Stairwell",
+    "description": "The overhead emergency lighting on the 3rd-floor landing of Stairwell B is constantly flickering and wires are dangling from the conduit fixture.",
+    "category": "Safety",
+    "priority": "High",
+    "fullName": "David Chen",
+    "email": "dchen.facilities@campus.edu",
+    "phone": "+1-555-018-7744",
+    "referenceOrLocation": "Science Hall B, Stairwell 3rd Floor",
+    "status": "In Progress",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-24T18:30:00.000Z",
+        "actor": "David Chen",
+        "remarks": "Urgent hazard report lodged."
+      },
+      {
+        "status": "In Review",
+        "timestamp": "2026-10-24T19:00:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Flagged as high-priority safety risk. Notified evening maintenance."
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-25T07:15:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Electrical contractor dispatched to isolate breaker and rewire ballast."
+      }
+    ],
+    "comments": [
+      {
+        "id": "comm-301",
+        "author": "Admin (admin)",
+        "text": "Caution tape placed around landing. Breaker 4B turned off pending repair.",
+        "createdAt": "2026-10-25T07:30:00.000Z"
+      }
+    ],
+    "createdAt": "2026-10-24T18:30:00.000Z",
+    "updatedAt": "2026-10-25T07:30:00.000Z"
+  },
+  {
+    "id": "c1a2b3c4-4444-4000-8000-000000000004",
+    "trackingId": "CMP-2026-0004",
+    "subject": "Unprofessional Conduct by Front Desk Representative",
+    "description": "When asking for assistance regarding service scheduling, the attendant dismissed my inquiries rudely and refused to provide their badge identification.",
+    "category": "Staff Behavior",
+    "priority": "Medium",
+    "fullName": "Sophia Al-Mansoor",
+    "email": "sophia.mansoor@example.com",
+    "phone": "+1-555-013-4411",
+    "referenceOrLocation": "Central Branch Reception Desk A",
+    "status": "In Review",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-22T14:10:00.000Z",
+        "actor": "Sophia Al-Mansoor",
+        "remarks": "Complaint filed with timestamp of occurrence (1:45 PM)."
+      },
+      {
+        "status": "In Review",
+        "timestamp": "2026-10-23T10:00:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Forwarded to Customer Relations Director for staff duty shift logs."
+      }
+    ],
+    "comments": [],
+    "createdAt": "2026-10-22T14:10:00.000Z",
+    "updatedAt": "2026-10-23T10:00:00.000Z"
+  },
+  {
+    "id": "c1a2b3c4-5555-4000-8000-000000000005",
+    "trackingId": "CMP-2026-0005",
+    "subject": "Package Left in Rain Without Protection",
+    "description": "Courier driver dumped electronics carton on the uncovered driveway during torrential downpour instead of covered porch 5 feet away. Outer carton soaked.",
+    "category": "Delivery/Transport",
+    "priority": "Medium",
+    "fullName": "James Wilson",
+    "email": "jwilson99@mailhost.com",
+    "phone": "+1-555-017-3321",
+    "referenceOrLocation": "Waybill #FDX-774901",
+    "status": "Submitted",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-25T11:00:00.000Z",
+        "actor": "James Wilson",
+        "remarks": "Submitted with delivery photos."
+      }
+    ],
+    "comments": [],
+    "createdAt": "2026-10-25T11:00:00.000Z",
+    "updatedAt": "2026-10-25T11:00:00.000Z"
+  },
+  {
+    "id": "c1a2b3c4-6666-4000-8000-000000000006",
+    "trackingId": "CMP-2026-0006",
+    "subject": "Student Portal 502 Bad Gateway Error During Course Registration",
+    "description": "Attempting to confirm enrollment throws 502 Bad Gateway intermittently between 9:00 AM and 11:30 AM. Session drops all selected courses.",
+    "category": "Online/Technical",
+    "priority": "High",
+    "fullName": "Amina Touré",
+    "email": "atoure@university.edu",
+    "phone": "",
+    "referenceOrLocation": "Portal URL: /student/enrollment/spring26",
+    "status": "Resolved",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-12T10:05:00.000Z",
+        "actor": "Amina Touré",
+        "remarks": "Reported with browser console HAR file."
+      },
+      {
+        "status": "In Review",
+        "timestamp": "2026-10-12T10:20:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "DevOps identified connection pool exhaustion on replica DB."
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-12T11:00:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Scaled Kubernetes pods and increased pool max connections from 50 to 250."
+      },
+      {
+        "status": "Resolved",
+        "timestamp": "2026-10-12T13:45:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Gateway stabilized. Zero drops observed in APM dashboards."
+      }
+    ],
+    "comments": [
+      {
+        "id": "comm-601",
+        "author": "Admin (admin)",
+        "text": "Post-mortem completed. Auto-scaling thresholds updated.",
+        "createdAt": "2026-10-12T13:46:00.000Z"
+      }
+    ],
+    "createdAt": "2026-10-12T10:05:00.000Z",
+    "updatedAt": "2026-10-12T13:46:00.000Z"
+  },
+  {
+    "id": "c1a2b3c4-7777-4000-8000-000000000007",
+    "trackingId": "CMP-2026-0007",
+    "subject": "HVAC Unit Leaking Water in Conference Room 204",
+    "description": "Condensation drip from ceiling mounted HVAC vent has damaged acoustic tiles and carpet in Room 204. Bucket placed underneath as interim stopgap.",
+    "category": "Facilities",
+    "priority": "Medium",
+    "fullName": "Rachel Green",
+    "email": "rachel.green@corporation.com",
+    "phone": "+1-555-012-7890",
+    "referenceOrLocation": "HQ Building 2, Room 204",
+    "status": "In Review",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-24T15:20:00.000Z",
+        "actor": "Rachel Green",
+        "remarks": "Filed during team weekly sync."
+      },
+      {
+        "status": "In Review",
+        "timestamp": "2026-10-25T08:30:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Scheduled facilities inspection for 2 PM today."
+      }
+    ],
+    "comments": [],
+    "createdAt": "2026-10-24T15:20:00.000Z",
+    "updatedAt": "2026-10-25T08:30:00.000Z"
+  },
+  {
+    "id": "c1a2b3c4-8888-4000-8000-000000000008",
+    "trackingId": "CMP-2026-0008",
+    "subject": "Warranty Claim Rejected Erroneously",
+    "description": "Submitted proof of purchase for espresso machine pump failure within 12-month manufacturer window, but customer support denied claim citing invalid serial number.",
+    "category": "Service",
+    "priority": "Medium",
+    "fullName": "Liam Gallagher",
+    "email": "liam.g@ukmail.net",
+    "phone": "+1-555-016-5544",
+    "referenceOrLocation": "Case Ref #SRV-10921",
+    "status": "In Progress",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-19T13:40:00.000Z",
+        "actor": "Liam Gallagher",
+        "remarks": "Attached photo of serial number plate and original receipt."
+      },
+      {
+        "status": "In Review",
+        "timestamp": "2026-10-20T10:10:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Found serial number OCR mismatch in automated scan system."
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-21T09:00:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Manual override applied. Warranty status updated to Active."
+      }
+    ],
+    "comments": [
+      {
+        "id": "comm-801",
+        "author": "Admin (admin)",
+        "text": "Authorized service center dispatch voucher issued.",
+        "createdAt": "2026-10-21T09:05:00.000Z"
+      }
+    ],
+    "createdAt": "2026-10-19T13:40:00.000Z",
+    "updatedAt": "2026-10-21T09:05:00.000Z"
+  },
+  {
+    "id": "c1a2b3c4-9999-4000-8000-000000000009",
+    "trackingId": "CMP-2026-0009",
+    "subject": "Missing Noise Cancellation Ear Tips in Retail Box",
+    "description": "Purchased ProAudio Earbuds from the flagship store yesterday. The accessory pouch only had small tips, medium and large silicone tips were missing.",
+    "category": "Product",
+    "priority": "Low",
+    "fullName": "Carlos Mendez",
+    "email": "carlos.mendez@webmail.org",
+    "phone": "",
+    "referenceOrLocation": "Store #42, Receipt 9831",
+    "status": "Submitted",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-25T12:15:00.000Z",
+        "actor": "Carlos Mendez",
+        "remarks": "Complaint filed online."
+      }
+    ],
+    "comments": [],
+    "createdAt": "2026-10-25T12:15:00.000Z",
+    "updatedAt": "2026-10-25T12:15:00.000Z"
+  },
+  {
+    "id": "c1a2b3c4-aaaa-4000-8000-000000000010",
+    "trackingId": "CMP-2026-0010",
+    "subject": "Non-Refundable Fee Charged on Cancelled Flight",
+    "description": "Flight was cancelled by the carrier due to maintenance, yet convenience fee of $35 per passenger was withheld from the refund credit.",
+    "category": "Billing/Payment",
+    "priority": "Medium",
+    "fullName": "Emily Watson",
+    "email": "emily.watson@flighttraveler.com",
+    "phone": "+1-555-015-8832",
+    "referenceOrLocation": "Booking PNR #K9L3XZ",
+    "status": "Rejected",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-10T16:00:00.000Z",
+        "actor": "Emily Watson",
+        "remarks": "Complaint submitted requesting remaining balance refund."
+      },
+      {
+        "status": "In Review",
+        "timestamp": "2026-10-11T09:30:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Reviewed against terms of service clause 14.2."
+      },
+      {
+        "status": "Rejected",
+        "timestamp": "2026-10-11T14:00:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Travel insurance voucher of equal value was accepted by user at check-out in lieu of cash convenience fee refund."
+      }
+    ],
+    "comments": [
+      {
+        "id": "comm-1001",
+        "author": "Admin (admin)",
+        "text": "Policy documented and explanation delivered to passenger.",
+        "createdAt": "2026-10-11T14:02:00.000Z"
+      }
+    ],
+    "createdAt": "2026-10-10T16:00:00.000Z",
+    "updatedAt": "2026-10-11T14:02:00.000Z"
+  },
+  {
+    "id": "c1a2b3c4-bbbb-4000-8000-000000000011",
+    "trackingId": "CMP-2026-0011",
+    "subject": "Cafeteria Sanitizer Dispensers Empty for 3 Days",
+    "description": "All three touchless hand sanitizing stations at the main cafeteria entrance have had flashing red refill lights since Wednesday.",
+    "category": "Facilities",
+    "priority": "Low",
+    "fullName": "Priya Patel",
+    "email": "priya.patel@health.org",
+    "phone": "+1-555-011-6677",
+    "referenceOrLocation": "West Wing Cafeteria Entrance",
+    "status": "Resolved",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-16T12:00:00.000Z",
+        "actor": "Priya Patel",
+        "remarks": "Hygiene complaint logged."
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-16T13:00:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Janitorial team notified."
+      },
+      {
+        "status": "Resolved",
+        "timestamp": "2026-10-16T14:30:00.000Z",
+        "actor": "Admin (admin)",
+        "remarks": "Refilled all 3 dispenser cartridges with gel sanitizer."
+      }
+    ],
+    "comments": [],
+    "createdAt": "2026-10-16T12:00:00.000Z",
+    "updatedAt": "2026-10-16T14:30:00.000Z"
+  },
+  {
+    "id": "c1a2b3c4-cccc-4000-8000-000000000012",
+    "trackingId": "CMP-2026-0012",
+    "subject": "Missing Community Recycling Bins at Parking Lot D",
+    "description": "The mixed paper and plastic recycling bins were removed during asphalt resurfacing last month and have not been restored.",
+    "category": "Other",
+    "priority": "Low",
+    "fullName": "Robert Kowalski",
+    "email": "r.kowalski@greenearth.net",
+    "phone": "",
+    "referenceOrLocation": "Parking Lot D, North Curb",
+    "status": "Submitted",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-25T13:00:00.000Z",
+        "actor": "Robert Kowalski",
+        "remarks": "Civic request filed."
+      }
+    ],
+    "comments": [],
+    "createdAt": "2026-10-25T13:00:00.000Z",
+    "updatedAt": "2026-10-25T13:00:00.000Z"
+  }
+]

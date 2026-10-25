@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ==============================================================
+  SAMPLE COMPLAINTS XML DATASET
+  Used for testing XML import and export features.
+  XML technology requirement: Well-formed XML with nested nodes.
+  ==============================================================
+-->
+<complaints>
+  <complaint>
+    <trackingId>CMP-2026-9001</trackingId>
+    <subject>Faulty Power Supply on Workstation Pro 9</subject>
+    <description>The desktop power supply began making loud buzzing noises and repeatedly shuts down under GPU rendering load.</description>
+    <category>Product</category>
+    <priority>High</priority>
+    <fullName>Sarah Connor</fullName>
+    <email>sarah.c@techsys.io</email>
+    <phone>+1-555-019-9001</phone>
+    <referenceOrLocation>Asset Tag #WS-8812</referenceOrLocation>
+    <status>In Progress</status>
+    <createdAt>2026-10-23T10:00:00.000Z</createdAt>
+    <updatedAt>2026-10-24T11:00:00.000Z</updatedAt>
+    <timeline>
+      <event>
+        <status>Submitted</status>
+        <timestamp>2026-10-23T10:00:00.000Z</timestamp>
+        <actor>Sarah Connor</actor>
+        <remarks>Reported hardware failure with audio clip.</remarks>
+      </event>
+      <event>
+        <status>In Progress</status>
+        <timestamp>2026-10-24T11:00:00.000Z</timestamp>
+        <actor>Admin (admin)</actor>
+        <remarks>Replacement 850W modular PSU dispatched to field tech.</remarks>
+      </event>
+    </timeline>
+    <comments>
+      <comment>
+        <id>comm-9001</id>
+        <author>Admin (admin)</author>
+        <text>Field engineering scheduled for Tuesday 10:00 AM.</text>
+        <createdAt>2026-10-24T11:05:00.000Z</createdAt>
+      </comment>
+    </comments>
+  </complaint>
+  <complaint>
+    <trackingId>CMP-2026-9002</trackingId>
+    <subject>Cold Water Only in Community Gym Shower Facility</subject>
+    <description>Showers 1 through 4 have zero hot water supply since Monday morning early bird hours.</description>
+    <category>Facilities</category>
+    <priority>Medium</priority>
+    <fullName>Brian O'Conner</fullName>
+    <email>brian.oc@sportsclub.org</email>
+    <phone>+1-555-018-9002</phone>
+    <referenceOrLocation>Main Gym Locker Room B</referenceOrLocation>
+    <status>Submitted</status>
+    <createdAt>2026-10-25T08:30:00.000Z</createdAt>
+    <updatedAt>2026-10-25T08:30:00.000Z</updatedAt>
+    <timeline>
+      <event>
+        <status>Submitted</status>
+        <timestamp>2026-10-25T08:30:00.000Z</timestamp>
+        <actor>Brian O'Conner</actor>
+        <remarks>Water heater failure reported by morning runners.</remarks>
+      </event>
+    </timeline>
+    <comments />
+  </complaint>
+  <complaint>
+    <trackingId>CMP-2026-9003</trackingId>
+    <subject>Unauthorized Service Fee on Monthly Telecom Statement</subject>
+    <description>An extra $14.99 premium voicemail addon charge was billed without authorization or opt-in consent.</description>
+    <category>Billing/Payment</category>
+    <priority>High</priority>
+    <fullName>Maya Lin</fullName>
+    <email>maya.lin@designer.net</email>
+    <phone>+1-555-013-9003</phone>
+    <referenceOrLocation>Account #TEL-449102</referenceOrLocation>
+    <status>In Review</status>
+    <createdAt>2026-10-24T14:15:00.000Z</createdAt>
+    <updatedAt>2026-10-25T09:00:00.000Z</updatedAt>
+    <timeline>
+      <event>
+        <status>Submitted</status>
+        <timestamp>2026-10-24T14:15:00.000Z</timestamp>
+        <actor>Maya Lin</actor>
+        <remarks>Billing dispute submitted.</remarks>
+      </event>
+      <event>
+        <status>In Review</status>
+        <timestamp>2026-10-25T09:00:00.000Z</timestamp>
+        <actor>Admin (admin)</actor>
+        <remarks>Billing team auditing provisioning history.</remarks>
+      </event>
+    </timeline>
+    <comments />
+  </complaint>
+</complaints>
